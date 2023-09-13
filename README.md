@@ -4,7 +4,7 @@
 A Machine Learning Method Integrating Street View Images with Cycle Accident Data
 
 
-<center>Ying Ye</center>
+<div>Ying Ye</div>
 
 Module Name: MSc Dissertation 
 
