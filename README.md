@@ -1,9 +1,10 @@
 # CASA0010
-<center>**Unpacking the Cycling Safety of London’s Road Environment**</center>
+**Unpacking the Cycling Safety of London’s Road Environment**
 
-*A Machine Learning Method Integrating Street View Images with Cycle Accident Data*
+A Machine Learning Method Integrating Street View Images with Cycle Accident Data
 
-Ying Ye
+
+<center>Ying Ye</center>
 
 Module Name: MSc Dissertation 
 
